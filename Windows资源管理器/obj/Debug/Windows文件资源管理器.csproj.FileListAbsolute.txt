@@ -1,0 +1,10 @@
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.exe
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.pdb
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows文件资源管理器.frmMain.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.Properties.Resources.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows文件资源管理器.csproj.GenerateResource.Cache
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\bin\Debug\Windows资源管理器.exe
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\bin\Debug\Windows资源管理器.pdb
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows文件资源管理器.frmDeleteFolder.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows文件资源管理器.frmCreateFolder.resources

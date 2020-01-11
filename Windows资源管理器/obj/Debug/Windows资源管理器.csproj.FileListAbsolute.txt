@@ -1,0 +1,145 @@
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\bin\Debug\Windows资源管理器.exe
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\bin\Debug\Windows资源管理器.pdb
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.Properties.Resources.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.csproj.GenerateResource.Cache
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.exe
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.pdb
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmMain.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCreateFolder.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmDeleteFolder.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmSearchFile.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCopyFile.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCopyAmount.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmNetDriver.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmUpdateFileDir.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmUpdateFileAttribute.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmRenameFile.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.exe
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.pdb
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\bin\Debug\Windows资源管理器.exe
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\bin\Debug\Windows资源管理器.pdb
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmUpdateFileDir.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmUpdateFileAttribute.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmRenameFile.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmNetDriver.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCopyAmount.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCopyFile.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmSearchFile.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmDeleteFolder.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCreateFolder.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmMain.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.Properties.Resources.resources
+E:\Visual C#.NET实验与案例教程\书\程序\文件资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.csproj.GenerateResource.Cache
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.exe
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.pdb
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmDriverStorage.resources
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmUpdateFileDir.resources
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmUpdateFileAttribute.resources
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmRenameFile.resources
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmNetDriver.resources
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCopyAmount.resources
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCopyFile.resources
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmSearchFile.resources
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmDeleteFolder.resources
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCreateFolder.resources
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmMain.resources
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.Properties.Resources.resources
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.csproj.GenerateResource.Cache
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\bin\Debug\Windows资源管理器.exe
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\bin\Debug\Windows资源管理器.pdb
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmFormatDriver.resources
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCheckDriver.resources
+E:\Visual C#.NET程序设计案例教程\书\程序\2 文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCancelShare.resources
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.exe
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\bin\Debug\Windows资源管理器.exe
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\bin\Debug\Windows资源管理器.pdb
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\ResolveAssemblyReference.cache
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCancelShare.resources
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCheckDriver.resources
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmFormatDriver.resources
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmDriverStorage.resources
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmUpdateFileDir.resources
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmUpdateFileAttribute.resources
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmRenameFile.resources
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmNetDriver.resources
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCopyAmount.resources
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCopyFile.resources
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmSearchFile.resources
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmDeleteFolder.resources
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCreateFolder.resources
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmMain.resources
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.Properties.Resources.resources
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.csproj.GenerateResource.Cache
+G:\重庆理工大学\k课程\NET架构与程序设计\Visual C#.NET程序设计案例\《Visual C#.NET程序设计案例教程》程序\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.pdb
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\bin\Debug\Windows资源管理器.exe.config
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\bin\Debug\Windows资源管理器.exe
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\bin\Debug\Windows资源管理器.pdb
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCancelShare.resources
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCheckDriver.resources
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmFormatDriver.resources
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmDriverStorage.resources
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmUpdateFileDir.resources
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmUpdateFileAttribute.resources
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmRenameFile.resources
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmNetDriver.resources
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCopyAmount.resources
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCopyFile.resources
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmSearchFile.resources
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmDeleteFolder.resources
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCreateFolder.resources
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmMain.resources
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.Properties.Resources.resources
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.exe
+C:\Users\asus\Desktop\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.pdb
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\bin\Debug\Windows资源管理器.exe.config
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\bin\Debug\Windows资源管理器.exe
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\bin\Debug\Windows资源管理器.pdb
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.csprojAssemblyReference.cache
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCancelShare.resources
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCheckDriver.resources
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmFormatDriver.resources
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmDriverStorage.resources
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmUpdateFileDir.resources
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmUpdateFileAttribute.resources
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmRenameFile.resources
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmNetDriver.resources
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCopyAmount.resources
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCopyFile.resources
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmSearchFile.resources
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmDeleteFolder.resources
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCreateFolder.resources
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmMain.resources
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.Properties.Resources.resources
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.csproj.GenerateResource.cache
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.csproj.CoreCompileInputs.cache
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.exe
+D:\.net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.pdb
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\bin\Debug\Windows资源管理器.exe.config
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\bin\Debug\Windows资源管理器.exe
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\bin\Debug\Windows资源管理器.pdb
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.csprojAssemblyReference.cache
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCancelShare.resources
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCheckDriver.resources
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmFormatDriver.resources
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmDriverStorage.resources
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmUpdateFileDir.resources
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmUpdateFileAttribute.resources
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmRenameFile.resources
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmNetDriver.resources
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCopyAmount.resources
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCopyFile.resources
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmSearchFile.resources
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmDeleteFolder.resources
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmCreateFolder.resources
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.frmMain.resources
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.Properties.Resources.resources
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.csproj.GenerateResource.cache
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.csproj.CoreCompileInputs.cache
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.exe
+D:\c#net\第3章  文件资源管理器\Windows资源管理器\Windows资源管理器\obj\Debug\Windows资源管理器.pdb
